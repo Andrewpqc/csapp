@@ -1,2 +1,3 @@
 # csapp
-some exercise code for csapp
+some example code in the book csapp.
+
